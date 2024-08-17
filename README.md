@@ -41,7 +41,7 @@ This script implements the PageRank algorithm, which is used to rank web pages b
 This project relies on several Python libraries, including:
 - `numpy`: For numerical computations and matrix operations.
 - `matplotlib`: For plotting and visualizing images and data.
-- Custom modules like `bearNecessities` and `PageRankFunctions` (ensure these are available in your environment).
+- Custom modules like `bearNecessities` and `PageRankFunctions`.
 
 To install these dependencies, run:
 ```bash
@@ -57,9 +57,3 @@ For example:
 ```bash
 python ReflectingImages.py
 ```
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgements
-Special thanks to the creators of the custom modules used in this project.
